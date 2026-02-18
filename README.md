@@ -172,12 +172,13 @@ PC1 → PC3
 
   
 ---
----
-# ❓ Questions de réflexion
 
+# ❓ Questions de réflexion
+---
 1. Pourquoi PC1 ne voit-il pas PC3 sans routeur ? -> Répondez directement sur ce Readme.md
-   
+
 PC1 ne voit-il pas PC3 sans routeur parce que PC1 est dans le VLAN 10 et PC3 dans le VLAN 20, ce sont deux domaines de broadcast séparés. Un switch ne route pas entre VLAN (couche 2). Il faut un équipement de couche 3 (routeur ou switch) pour faire l’inter-VLAN routing.
+
 ---
 2. Quel rôle joue le masque /24 ? -> Répondez directement sur ce Readme.md
    
