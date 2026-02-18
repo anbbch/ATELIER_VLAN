@@ -227,6 +227,7 @@ interface g0/0.10
 <img width="1015" height="549" alt="image" src="https://github.com/user-attachments/assets/a895ab9c-2fd5-43b7-a4a4-828cb3a9dc16" />
 
 Teste de PC1 vers PC2 puis de PC1 vers PC3 :
+
 <img width="664" height="622" alt="image" src="https://github.com/user-attachments/assets/65007ad0-f349-48c1-8ea7-0a1c25ad60c6" />
 
 
@@ -234,9 +235,10 @@ Teste de PC1 vers PC2 puis de PC1 vers PC3 :
 
 # 🚀 Extensions
 
-- Ajouter VLAN 30
+- Ajouter VLAN 30:
+  
   Sur le SW1 :
-  ```
+
 <img width="712" height="111" alt="image" src="https://github.com/user-attachments/assets/18727da5-ef30-464a-8866-24ce88a8d5a5" />
 <img width="486" height="68" alt="image" src="https://github.com/user-attachments/assets/9797185d-29d9-4af9-ae40-6528c035489f" />
 <img width="901" height="379" alt="image" src="https://github.com/user-attachments/assets/e8268c1c-397a-4692-bc1b-76f35b2b9af9" />
