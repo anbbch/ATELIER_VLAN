@@ -244,12 +244,14 @@ Teste de PC1 vers PC2 puis de PC1 vers PC3 :
 <img width="901" height="379" alt="image" src="https://github.com/user-attachments/assets/e8268c1c-397a-4692-bc1b-76f35b2b9af9" />
 
    Sur R1 :
-   ```
+
 <img width="885" height="375" alt="image" src="https://github.com/user-attachments/assets/928fad63-45b3-4bd7-9db3-6492fa71c219" />
 
-
 - Mettre un DHCP par VLAN  
-  
+
+<img width="689" height="397" alt="image" src="https://github.com/user-attachments/assets/173be39e-fc7b-4af4-b1f7-e6404181b43e" />
+<img width="895" height="840" alt="image" src="https://github.com/user-attachments/assets/8c81504e-e989-4fda-96de-3d4469534e37" />
+
 ---
 
 # 📝 Évaluation (/20)
