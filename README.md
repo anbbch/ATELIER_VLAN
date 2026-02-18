@@ -207,7 +207,7 @@ Ports bien affectés | 2 |
 Trunk opérationnel | 4 |
 Inter-VLAN fonctionnel | 4 |
 Travail sur les masques | 4 |  
-Extention | 5 |  
+Extention | 2 |  
   
 # ✅ Fin du TP
 
