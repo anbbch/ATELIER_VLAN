@@ -237,7 +237,7 @@ Teste de PC1 vers PC2 puis de PC1 vers PC3 :
 - Ajouter VLAN 30
   Sur le SW1 :
   ```
-<\br><img width="712" height="111" alt="image" src="https://github.com/user-attachments/assets/18727da5-ef30-464a-8866-24ce88a8d5a5" />
+<img width="712" height="111" alt="image" src="https://github.com/user-attachments/assets/18727da5-ef30-464a-8866-24ce88a8d5a5" />
 <img width="486" height="68" alt="image" src="https://github.com/user-attachments/assets/9797185d-29d9-4af9-ae40-6528c035489f" />
 <img width="901" height="379" alt="image" src="https://github.com/user-attachments/assets/e8268c1c-397a-4692-bc1b-76f35b2b9af9" />
 
