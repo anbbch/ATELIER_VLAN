@@ -251,6 +251,13 @@ Teste de PC1 vers PC2 puis de PC1 vers PC3 :
 
 <img width="689" height="397" alt="image" src="https://github.com/user-attachments/assets/173be39e-fc7b-4af4-b1f7-e6404181b43e" />
 <img width="895" height="840" alt="image" src="https://github.com/user-attachments/assets/8c81504e-e989-4fda-96de-3d4469534e37" />
+<img width="1710" height="1011" alt="image" src="https://github.com/user-attachments/assets/b084c8e3-bc1e-4a4c-96aa-69a01b738fb1" />
+
+Nous ajoutons un PC4 pour tester :
+
+<img width="983" height="551" alt="image" src="https://github.com/user-attachments/assets/9ff7124a-c2d0-41a6-b49b-6fa48b827a77" />
+<img width="596" height="363" alt="image" src="https://github.com/user-attachments/assets/f68b6eb6-57e1-4f4f-b24a-20ac00751e71" />
+<img width="681" height="63" alt="image" src="https://github.com/user-attachments/assets/7873caf7-638e-4a7d-8e46-13865d731b5c" />
 
 ---
 
