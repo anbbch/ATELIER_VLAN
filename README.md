@@ -95,6 +95,7 @@ name ADMIN
 vlan 20
 name USERS
 ```
+<img width="869" height="352" alt="image" src="https://github.com/user-attachments/assets/aeea2c14-7576-4b85-9caa-95bcc3c2797b" />
 
 ---
 
